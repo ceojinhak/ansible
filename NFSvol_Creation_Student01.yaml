@@ -17,3 +17,5 @@
       hostname: 121.126.207.110
       username: admin
       password: netapp123!
+      https: true
+      validate_certs: false
